@@ -1,0 +1,21 @@
+{
+  "id": "1b0c7c6d-1eb1-42b8-b7d8-76b9b2ee4c75",
+  "version": "2.0",
+  "name": "wp-behat",
+  "url": "",
+  "tests": [{
+    "id": "c138cd1a-91a1-453c-a4f2-fbe860c24fe2",
+    "name": "Untitled",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "19a6f392-2ada-4af3-835e-fc83e70f721b",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["c138cd1a-91a1-453c-a4f2-fbe860c24fe2"]
+  }],
+  "urls": [],
+  "plugins": []
+}
